@@ -1,2 +1,5 @@
-# ECEN-758-Project-Food-101
-This repository is made as part of Data Mining ECEN 758 Major Project.
+# Food-101 Image Classification using ResNet-50
+
+Instructions to run the code on test data.
+
+1. 
