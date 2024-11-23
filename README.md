@@ -10,7 +10,7 @@ Link to the Test Data: Obtain the test dataset required for the model from here:
 
 Instructions To run the code:
 
-1. Copy the main.py into your jupyter notebook or google collab or any other environment which can import all these packages
+1. Copy the main.py into your jupyter notebook or google collab or any other environment which can import all these packages  
   numpy  
   pandas  
   torch  
@@ -26,6 +26,7 @@ Or
 
 2. Run this code to download the packages
 ```
+cd code
 pip install -r requirements.txt
 ```
 
