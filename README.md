@@ -12,12 +12,19 @@ Instructions To run the code:
 
 1. Copy the main.py into your jupyter notebook or google collab or any other environment which can import all these packages
 numpy
+
 pandas
+
 torch
+
 torchvision
+
 Pillow
+
 opencv-python
+
 scikit-learn
+
 gdown
 
 Or
