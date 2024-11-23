@@ -11,22 +11,15 @@ Link to the Test Data: Obtain the test dataset required for the model from here:
 Instructions To run the code:
 
 1. Copy the main.py into your jupyter notebook or google collab or any other environment which can import all these packages
-numpy
-
-pandas
-
-torch
-
-torchvision
-
-Pillow
-
-opencv-python
-
-scikit-learn
-
-gdown
-
+  numpy  
+  pandas  
+  torch  
+  torchvision  
+  Pillow  
+  opencv-python  
+  scikit-learn  
+  gdown  
+ 
 Or
 
 1. Make sure Python is installed in you system
