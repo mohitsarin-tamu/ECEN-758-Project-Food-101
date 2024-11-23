@@ -4,11 +4,9 @@ The Food-101 dataset, a comprehensive collection of 101,000 food images across 1
 
 Link to Project WebPage - https://curved-cairnsmore-c18.notion.site/Food-101-Image-Classification-using-ResNet-50-1451d779703e807e8fbae7b0274c4cb3?pvs=4
 
-Link to Model-Weight and Test-data: https://drive.google.com/drive/folders/1Gn5K8lwGtu9XWGrAS14G_FbE4whWbW2o
+Link to Pretrained Model Weights: Get the ResNet-50-based model trained on the Food-10 dataset from here: https://drive.google.com/drive/folders/1JxiV60AmDM7gEqmlHOSM7mSvyzq3U8z3 
 
-Link to Pretrained Model: Get the ResNet-50-based model trained on the Food-10 dataset from here: https://drive.google.com/drive/folders/1Gn5K8lwGtu9XWGrAS14G_FbE4whWbW2o
-
-Link to the Test Data: Obtain the test dataset required for the model from here: https://drive.google.com/drive/folders/1Gn5K8lwGtu9XWGrAS14G_FbE4whWbW2o
+Link to the Test Data: Obtain the test dataset required for the model from here: https://drive.google.com/drive/folders/1rtnQWkxBWYxcktQa2CoXj6fGXXv94RHx
 
 Instructions to run the main.py:
 
