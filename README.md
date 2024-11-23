@@ -8,8 +8,29 @@ Link to Pretrained Model Weights: Get the ResNet-50-based model trained on the F
 
 Link to the Test Data: Obtain the test dataset required for the model from here: https://drive.google.com/drive/folders/1rtnQWkxBWYxcktQa2CoXj6fGXXv94RHx
 
-Instructions to run the main.py:
+Instructions To run the code:
 
-1. Ensure the environment has PyTorch support. For better convenience and to avoid installation issues, run it on Google Colab.  
-2. Download `main.py` and execute it.  
-3. All the weights and test image files are already included in `main.py`.
+1. Copy the main.py into your jupyter notebook or google collab or any other environment which can import all these packages
+numpy
+pandas
+torch
+torchvision
+Pillow
+opencv-python
+scikit-learn
+gdown
+
+Or
+
+1. Make sure Python is installed in you system
+
+2. Run this code to download the packages
+```
+pip install -r requirements.txt
+```
+
+3. Run the Script
+
+```
+python main.py
+```
