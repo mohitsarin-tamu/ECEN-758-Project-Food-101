@@ -35,3 +35,11 @@ pip install -r requirements.txt
 ```
 python main.py
 ```
+
+
+Contributors:
+* Mohit Sarin
+* Pavan Santosh
+* Sharvani Ramineni
+* Vinodheni Ramasrinivasan
+* Dorian Satuluri
