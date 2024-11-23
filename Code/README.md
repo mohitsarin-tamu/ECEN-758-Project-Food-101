@@ -24,7 +24,7 @@ Or
 
 2. Run this code to download the packages
 ```
-cd code
+cd Code
 pip install -r requirements.txt
 ```
 
